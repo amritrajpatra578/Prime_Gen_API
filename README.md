@@ -1,7 +1,14 @@
 # Prime_Gen_API
 
-![PRIME_API(2)](https://user-images.githubusercontent.com/78364361/189113151-aad58f26-6830-42c1-a53a-507c36b47225.gif)
+#![PRIME_API(2)](https://user-images.githubusercontent.com/78364361/189113151-aad58f26-6830-42c1-a53a-507c36b47225.gif)
 
+
+https://user-images.githubusercontent.com/78364361/189113707-7c43f182-89e4-4a41-ac30-208ba59f3b32.mp4
+
+
+
+Dependencies:
+pip install flask flask-sqlalchemy
 
 STEPS:
 1) Make two files with name algo.py and app.py, where algo file contains all algorithms and app file contain flask web framework. Then run these files.
@@ -15,8 +22,6 @@ STEPS:
 5) Now all the API queries will be stored in test.db, to read all the data we are using "SQLite Viewer".
 6) Drag and drop the test.db file to SQLite Viewer. Now all the data are readable and editable.
 
-Dependencies:
-pip install flask flask-sqlalchemy
 
 S/W, programming language, web frameworks used:
 i) VS code.
