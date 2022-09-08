@@ -1,8 +1,5 @@
 # Prime_Gen_API
 
-#![PRIME_API(2)](https://user-images.githubusercontent.com/78364361/189113151-aad58f26-6830-42c1-a53a-507c36b47225.gif)
-
-
 https://user-images.githubusercontent.com/78364361/189113707-7c43f182-89e4-4a41-ac30-208ba59f3b32.mp4
 
 
