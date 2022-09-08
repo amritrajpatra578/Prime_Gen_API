@@ -1,6 +1,7 @@
 # Prime_Gen_API
 
-![PRIME_GEN_API](https://user-images.githubusercontent.com/78364361/189100682-d98e2869-6b3f-4398-a78f-250e1959f2b0.gif)
+![PRIME_API](https://user-images.githubusercontent.com/78364361/189112320-0a1d51c9-b4a1-4628-969f-71108c92beaa.gif)
+
 
 STEPS:
 1) Make two files with name algo.py and app.py, where algo file contains all algorithms and app file contain flask web framework. Then run these files.
@@ -21,4 +22,4 @@ S/W, programming language, web frameworks used:
 i) VS code.
 ii) Flask web framework, python.
 iii) Insomnia API client.
-iv) SQLite Viewer.
+iv) SQLite Viewer.(link-https://inloop.github.io/sqlite-viewer/#)
