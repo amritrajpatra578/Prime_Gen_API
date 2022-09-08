@@ -1,6 +1,14 @@
 # Prime_Gen_API
 
-https://user-images.githubusercontent.com/78364361/189113707-7c43f182-89e4-4a41-ac30-208ba59f3b32.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/78364361/189115058-e374841f-0e49-4414-9326-c8710269b2df.mp4
+
+
+
 
 
 
