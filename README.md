@@ -4,8 +4,8 @@
 
 STEPS:
 1) Make two files with name algo.py and app.py, where algo file contains all algorithms and app file contain flask web framework. Then run these files.
-2) Create a test.db file in command prommpt/ powershell.
-   How to create db file:
+2) Create a test.db file in command prompt/ powershell.
+   How to create db file / Queries for CMD:
    i) python
    ii) from app import db                        # whare app.py and test.db should be in same directory. 
    iii) db.create_all()
@@ -13,3 +13,12 @@ STEPS:
 4) Write all queries in json file and Press "Send" w.r.t "POST". 
 5) Now all the API queries will be stored in test.db, to read all the data we are using "SQLite Viewer".
 6) Drag and drop the test.db file to SQLite Viewer. Now all the data are readable and editable.
+
+Dependencies:
+pip install flask flask-sqlalchemy
+
+S/W, programming language, web frameworks used:
+i) VS code.
+ii) Flask web framework, python.
+iii) Insomnia API client.
+iv) SQLite Viewer.
