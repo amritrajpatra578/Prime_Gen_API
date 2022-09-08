@@ -1,6 +1,6 @@
 # Prime_Gen_API
 
-![PRIME_API](https://user-images.githubusercontent.com/78364361/189112320-0a1d51c9-b4a1-4628-969f-71108c92beaa.gif)
+![PRIME_API(2)](https://user-images.githubusercontent.com/78364361/189113151-aad58f26-6830-42c1-a53a-507c36b47225.gif)
 
 
 STEPS:
