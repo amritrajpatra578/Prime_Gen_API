@@ -7,6 +7,12 @@ https://user-images.githubusercontent.com/78364361/189113707-7c43f182-89e4-4a41-
 Dependencies:
 pip install flask flask-sqlalchemy
 
+S/W, programming language, web frameworks used:
+i) VS code.
+ii) Flask web framework, python.
+iii) Insomnia API client.
+iv) SQLite Viewer.(link-https://inloop.github.io/sqlite-viewer/#)
+
 STEPS:
 1) Make two files with name algo.py and app.py, where algo file contains all algorithms and app file contain flask web framework. Then run these files.
 2) Create a test.db file in command prompt/ powershell.
@@ -20,8 +26,4 @@ STEPS:
 6) Drag and drop the test.db file to SQLite Viewer. Now all the data are readable and editable.
 
 
-S/W, programming language, web frameworks used:
-i) VS code.
-ii) Flask web framework, python.
-iii) Insomnia API client.
-iv) SQLite Viewer.(link-https://inloop.github.io/sqlite-viewer/#)
+
