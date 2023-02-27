@@ -24,7 +24,7 @@ STEPS:
 2) Create a test.db file in command prompt/ powershell.
    How to create db file / Queries for CMD:
    i) python
-   ii) from app import db                        # whare app.py and test.db should be in same directory. 
+   ii) from app import db                        # where app.py and test.db should be in same directory. 
    iii) db.create_all()
 3) Open any API client like insomnia, postman etc. Write api link in the url.
 4) Write all queries in json file and Press "Send" w.r.t "POST". 
